@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/CSharp2/10/bin/Debug/net6.0/10
+/Users/ilfatsh/Desktop/CSharp2/10/bin/Debug/net6.0/10.deps.json
+/Users/ilfatsh/Desktop/CSharp2/10/bin/Debug/net6.0/10.runtimeconfig.json
+/Users/ilfatsh/Desktop/CSharp2/10/bin/Debug/net6.0/10.dll
+/Users/ilfatsh/Desktop/CSharp2/10/bin/Debug/net6.0/10.pdb
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.dll
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/refint/10.dll
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.pdb
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/10.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/CSharp2/10/obj/Debug/net6.0/ref/10.dll
