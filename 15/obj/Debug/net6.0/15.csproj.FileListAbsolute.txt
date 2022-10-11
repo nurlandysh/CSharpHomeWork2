@@ -1,0 +1,15 @@
+/Users/ilfatsh/Desktop/CSharp2/15/bin/Debug/net6.0/15
+/Users/ilfatsh/Desktop/CSharp2/15/bin/Debug/net6.0/15.deps.json
+/Users/ilfatsh/Desktop/CSharp2/15/bin/Debug/net6.0/15.runtimeconfig.json
+/Users/ilfatsh/Desktop/CSharp2/15/bin/Debug/net6.0/15.dll
+/Users/ilfatsh/Desktop/CSharp2/15/bin/Debug/net6.0/15.pdb
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.csproj.AssemblyReference.cache
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.AssemblyInfoInputs.cache
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.AssemblyInfo.cs
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.csproj.CoreCompileInputs.cache
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.dll
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/refint/15.dll
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.pdb
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/15.genruntimeconfig.cache
+/Users/ilfatsh/Desktop/CSharp2/15/obj/Debug/net6.0/ref/15.dll
